@@ -54,7 +54,6 @@
 </div>
 
 ###
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sandeeps02&show_icons=true&locale=en&theme=radical" alt="sandeeps02" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sandeeps02&" alt="sandeeps02" /></p> 
 
 ###
