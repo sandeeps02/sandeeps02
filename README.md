@@ -54,6 +54,3 @@
 </div>
 
 ###
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sandeeps02&" alt="sandeeps02" /></p> 
-
-###
